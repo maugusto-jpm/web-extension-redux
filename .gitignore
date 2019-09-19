@@ -5,3 +5,4 @@ tmp
 package-lock.json
 .vscode
 yarn.lock
+yarn-error.log
